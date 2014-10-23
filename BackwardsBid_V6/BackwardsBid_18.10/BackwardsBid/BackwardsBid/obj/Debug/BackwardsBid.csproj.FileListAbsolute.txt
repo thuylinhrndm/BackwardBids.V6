@@ -1,0 +1,260 @@
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll.config
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\BackwardsBid.pdb
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.bootstrap.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.jQuery.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\EntityFramework.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.WebForms.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Web.Infrastructure.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Owin.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\System.Web.Providers.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\WebGrease.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.pdb
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\EntityFramework.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\System.Web.Providers.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.xml
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.csprojResolveAssemblyReference.cache
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.dll
+D:\College\3rd Year\Advanced Internet Technologies\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.pdb
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll.config
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\BackwardsBid.pdb
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.bootstrap.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.jQuery.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\EntityFramework.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.WebForms.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Web.Infrastructure.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Owin.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\System.Web.Providers.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\WebGrease.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.pdb
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\EntityFramework.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\System.Web.Providers.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.xml
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.csprojResolveAssemblyReference.cache
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.dll
+D:\College\3rd Year\Team Project\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.pdb
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll.config
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.pdb
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.bootstrap.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.jQuery.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.MSAjax.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.WebForms.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Owin.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Providers.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\WebGrease.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.pdb
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Providers.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.xml
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.dll
+\\psf\Home\Desktop\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.pdb
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll.config
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.pdb
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Owin.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\WebGrease.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Providers.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.dll
+C:\Users\User\Desktop\BackwardsBid_V5\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.pdb
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll.config
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\BackwardsBid.pdb
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.bootstrap.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\AspNet.ScriptManager.jQuery.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.ScriptManager.WebForms.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Web.Infrastructure.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Owin.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Providers.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\WebGrease.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Optimization.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Antlr3.Runtime.pdb
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Newtonsoft.Json.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\EntityFramework.SqlServer.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Core.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\System.Web.Providers.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Facebook.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Cookies.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Google.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.Twitter.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\bin\Microsoft.Owin.Security.OAuth.xml
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.csprojResolveAssemblyReference.cache
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.dll
+D:\College\3rd Year\Team Project\BackwardsBid_V6\BackwardsBid_18.10\BackwardsBid\BackwardsBid\obj\Debug\BackwardsBid.pdb
